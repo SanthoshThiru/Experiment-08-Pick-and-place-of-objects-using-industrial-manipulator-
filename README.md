@@ -120,8 +120,5 @@ and click on the connect icon
 
 ### Results: 
 
-
-
-
-
+Thus the Experiment To pick and place a regular shape using two finger gripper on the conveyor belt is successfully completed!..
 
