@@ -94,7 +94,9 @@ and click on the connect icon
 
 
 ### Output Video: 
-
+```
+https://drive.google.com/file/d/1TaR1xKSZ23ZRuYgMwD--ZnXrNxgnUln0/view?usp=drive_link
+```
 ### Screen shots of Pick and Place: 
 ![IMG-20240422-WA0055](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/11550308-534e-4ba7-93ec-a80ee2466d2f)
 
